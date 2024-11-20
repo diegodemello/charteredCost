@@ -1,4 +1,4 @@
-#Cálculo de Preço de Combustível para Fretados
+# Cálculo de Preço de Combustível para Fretados
 
 ## Descrição
 Este projeto calcula o custo de combustível por rota para fretamento de ônibus ou vans, levando em consideração a quilometragem percorrida em diferentes pontos de embarque. O programa permite calcular o custo total do combustível com base em um preço fixo e no consumo médio de cada veículo. 
